@@ -1,0 +1,8 @@
+height=input('enter the height of the box')
+height=float(height)
+length=input('enter the length of the box ')
+length=float(length)
+width=input('enter the width of the box')
+width=float(width)
+total=(width*length*height)
+print('volume of the box is:',total)
