@@ -1,3 +1,0 @@
-name=input('enter a name')
-for i in range(len(name)):
-    print(name)
